@@ -1,0 +1,266 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BDIX SERVER1", (ONLINE) Sangsad TV [BD]
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BDIX SERVER1", (ONLINE) BTV WORLD [BD]
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BDIX SERVER1", (ONLINE) ATN BANGLA [BD]
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BDIX SERVER1", (ONLINE) EKUSHEY TV [BD]
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BDIX SERVER1", (ONLINE) CHANNEL I [BD]
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BDIX SERVER1", (ONLINE) NTV [BD]
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BDIX SERVER1", (ONLINE) DESH TV [BD]
+https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX SERVER1", (ONLINE) DEEPTO TV [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BDIX SERVER1", (OFFLINE) EKATTOR TV [BD]
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BDIX SERVER1", (ONLINE) DBC NEWS [BD]
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BDIX SERVER1", (ONLINE) RTV [BD]
+https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BDIX SERVER1", (ONLINE) BOISHAKHI TV
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BDIX SERVER1", (ONLINE) BANGLA VISION [BD]
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BDIX SERVER1", (ONLINE) DESH TV [BD]
+https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX SERVER1", (ONLINE) MY TV [BD]
+https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BDIX SERVER1", (ONLINE) MOHONA TV [BD]
+https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BDIX SERVER1", (ONLINE) MAASRANGA TV [BD]
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BDIX SERVER1", (ONLINE) CHANNEL 9 [BD]
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BDIX SERVER1", (ONLINE) GAZI TV [BD]
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BDIX SERVER1", (ONLINE) ASIAN TV [BD]
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BDIX SERVER1", (ONLINE) SA TV [BD]
+https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BDIX SERVER1", (OFFLINE) NAGORIK TV [BD]
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BDIX SERVER1", (ONLINE) ATN NEWS [BD]
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BDIX SERVER1", (ONLINE) INDEPENDENT TV [BD]
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BDIX SERVER1", (ONLINE) SOMOY TV [BD]
+https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BDIX SERVER1", (ONLINE) CHANNEL 24 [BD]
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BDIX SERVER1", (OFFLINE) EKATTOR TV [BD]
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BDIX SERVER1", (ONLINE) JAMUNA TV [BD]
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BDIX SERVER1", (ONLINE) NEWS 24 [BD]
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BDIX SERVER1", (ONLINE) GAAN BANGLA [BD]
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BDIX SERVER1", (ONLINE) DURONTO TV [BD]
+https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BDIX SERVER1", (ONLINE) Star Jalsha HD [IN]
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BDIX SERVER1", (ONLINE) Zee Bangla SD [IN]
+https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BDIX SERVER1", (ONLINE) Colors Bangla HD [IN]
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BDIX SERVER1", (ONLINE) Colors Bangla SD [IN]
+https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="BDIX SERVER1", (ONLINE) DD Bangla [IN]
+https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BDIX SERVER1", (ONLINE) Ruposhi Bangla [IN]
+https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BDIX SERVER1", (ONLINE) R Plus Gold [IN]
+https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX SERVER1", (ONLINE) Sangeet Bangla [IN]
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="BDIX SERVER1", (ONLINE) Dhoom Music [IN]
+https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BDIX SERVER1", (ONLINE) Jalsha Movies [IN]
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Avbb36g.jpg?1" group-title="BDIX SERVER1", (OFFLINE) Provashi Bangla IPTV [BD]
+https://edge01.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="BDIX SERVER1", (ONLINE) COLORS HD
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="BDIX SERVER1", (ONLINE) STAR PLUS
+https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="BDIX SERVER1", (ONLINE) STAR PLUS HD
+https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="BDIX SERVER1", (ONLINE) STAR BHARAT
+https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="BDIX SERVER1", (ONLINE) Zee TV HD
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="BDIX SERVER1", (ONLINE) STAR WORLD
+https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="BDIX SERVER1", (ONLINE) Comedy Central
+https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="BDIX SERVER1", (ONLINE) Comedy Central HD
+https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HS9It3H.png" group-title="BDIX SERVER1", (ONLINE) Colors Infinity
+https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="BDIX SERVER1", (ONLINE) Star Gold
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="BDIX SERVER1", (ONLINE) Star Gold HD
+https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="BDIX SERVER1", (ONLINE) Star Gold 2
+https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX SERVER1", (ONLINE) Zee Cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="BDIX SERVER1", (ONLINE) Zee Bollywood
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="BDIX SERVER1", (ONLINE) MANORANJAN
+https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="BDIX SERVER1", (ONLINE) Movies Now
+https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="BDIX SERVER1", (ONLINE) LOTUS MACAU
+https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="BDIX SERVER1", (ONLINE) FYI TV 18
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="BDIX SERVER1", (ONLINE) NGC
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="BDIX SERVER1", (ONLINE) NAT GEO WILD
+https://edge01.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="BDIX SERVER1", (ONLINE) NAT GEO PEOPLE
+https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="BDIX SERVER1", (ONLINE) TLC HD
+https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="BDIX SERVER1", (ONLINE) History TV HD
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="BDIX SERVER1", (ONLINE) FOX Life
+https://edge01.iptv.digijadoo.net/live/fox_life/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="BDIX SERVER1", (ONLINE) BBC Lifestyle
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="BDIX SERVER1", (ONLINE) Hum Masala
+https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94NoKFn.jpg" group-title="BDIX SERVER1", (ONLINE) SONIC
+https://edge01.iptv.digijadoo.net/live/sonic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="BDIX SERVER1", (ONLINE) NICK Bangla
+https://edge01.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAjHYu3.png" group-title="BDIX SERVER1", (ONLINE) Nick Junior
+https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="BDIX SERVER1", (ONLINE) BBC Cbeebies
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png" group-title="BDIX SERVER1", (ONLINE) DD Sports
+https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="BDIX SERVER1", (ONLINE) Al Jazeera
+https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jBpJrGR.png" group-title="BDIX SERVER1", (ONLINE) Euro News
+https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="BDIX SERVER1", (ONLINE) DW
+https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuQij93.png" group-title="BDIX SERVER1", (ONLINE) NHK WORLD
+https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="BDIX SERVER1", (ONLINE) BBC News
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="BDIX SERVER1", (ONLINE) CNN USA
+https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="BDIX SERVER1", (ONLINE) CNA
+https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BDIX SERVER1", (ONLINE) BTV WORLD [BD]
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BDIX SERVER1", (ONLINE) ATN BANGLA [BD]
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BDIX SERVER1", (ONLINE) EKUSHEY TV [BD]
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BDIX SERVER1", (ONLINE) CHANNEL I [BD]
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BDIX SERVER1", (ONLINE) NTV [BD]
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BDIX SERVER1", (ONLINE) DESH TV [BD]
+https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX SERVER1", (ONLINE) DEEPTO TV [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
