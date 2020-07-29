@@ -264,3 +264,201 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX SERVER1", (ONLINE) DEEPTO TV [BD]
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
+EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", (OFFLINE) And Picture (1)
+http://103.141.66.36/bpk-tv/10190/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", (OFFLINE) And Picture (2)
+http://findoutyou.com/Hi5.m3u8?c=out/v1/680da5bc3c2341cebb5d25ce9ed06a11/&i=5&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", (ONLINE) And Picture HD (1)
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES", (ONLINE) And Picture HD (2)
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES", (OFFLINE) SONY SET MAX (1)
+http://otv.ftpbd.net/streams/109/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES", (OFFLINE) SONY SET MAX (2)
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIES", (OFFLINE) SONY SET MAX HD (1)
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIES", (OFFLINE) SONY SET MAX HD (2)
+http://175.41.46.16:8081/hls/8.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES", (OFFLINE) Sony MAX2 (1)
+https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_3500.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES", (OFFLINE) Sony MAX2 (2)
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", (ONLINE) Star Gold (1)
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES", (OFFLINE) Star Gold (2)
+http://137.59.155.253:8088/hls/Star_Gold.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES", (ONLINE) Star Gold HD (1)
+https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES", (OFFLINE) Star Gold HD (2)
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES", (ONLINE) Star Gold 2
+https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201803/star-gold-select.jpg" group-title="HINDI MOVIES", (OFFLINE) Star Gold Select HD
+http://107.152.234.10:8080/indian/hindi-StargoldselectHD/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", (OFFLINE) Zee Cinema (1)
+http://103.141.66.36/bpk-tv/10180/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", (ONLINE) Zee Cinema (2)
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES", (OFFLINE) Zee Cinema HD (1)
+http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES", (ONLINE) Zee Cinema HD (2)
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", (ONLINE) Zee Cinema Me
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", (ONLINE) Zee Cinema Me UK
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="HINDI MOVIES", (ONLINE) Zee Cinema USA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/988312378507907072/hF1UdC33_400x400.jpg" group-title="HINDI MOVIES", (OFFLINE) Zee Theatre
+http://findoutyou.com/Hi5.m3u8?c=out/v1/9b9f434518cc489f9260e24b5768ef55/&i=17&.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85m3yYe.jpg" group-title="HINDI MOVIES", (ONLINE) ZEE MUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="HINDI MOVIES", (ONLINE) Zee Bollywood (1)
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="HINDI MOVIES", (ONLINE) Zee Bollywood (2)
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="HINDI MOVIES", (OFFLINE) Zee Action
+http://103.141.66.36/bpk-tv/10337/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="HINDI MOVIES", (ONLINE) Zee BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaZ13Bk.png" group-title="HINDI MOVIES", (ONLINE) Zee ANMOL CINEMA
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png" group-title="HINDI MOVIES", (OFFLINE) Movies Active HD
+https://ca.finetv.xyz:443/auth?channel=D2hMovies&type=index.m3u8&authorization=ZGhpLmdraS1yd3RrMFZBWkRTaFVLdkw5NDdtbg==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/UTV_Movies_logo.png" group-title="HINDI MOVIES", (ONLINE) UTV Movies [TEST]
+http://202.163.117.6:9981/stream/channelid/1095695221.srt
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/UTV_Movies_logo.png" group-title="HINDI MOVIES", (ONLINE) UTV Movies [TEST]
+http://103.135.208.14/live/ibox/bd/7.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/490_tkjlg.jpg" group-title="HINDI MOVIES", (ONLINE) UTV Action [TEST]
+http://202.163.117.6:9981/stream/channelid/135894982,srt
+
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/channel-logos/colors-cineplex.png" group-title="HINDI MOVIES", (OFFLINE) COLORS CINEPLEX UK [TEST]
+http://107.152.234.10:8080/indian/hindi-COLORSCINEPLEXUK/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/channel-logos/colors-cineplex.png" group-title="HINDI MOVIES", (OFFLINE) COLORS CINEPLEX HD [TEST]
+http://107.152.234.10:8080/indian/hindi-COLORSCINEPLEXHD/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="HINDI MOVIES", (ONLINE) BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWIyZJf.jpg?1" group-title="HINDI MOVIES", (OFFLINE) MOVIE EXPRESS
+http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="HINDI MOVIES", (ONLINE) WoW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rC4dw0k.jpg" group-title="HINDI MOVIES", (ONLINE) MBC Bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUu5yCG.jpg" group-title="HINDI MOVIES", (OFFLINE) BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUWx5m1.png" group-title="HINDI MOVIES", (OFFLINE) BOLLYWOOD CLASSIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8?/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugF2t8q.png" group-title="HINDI MOVIES", (ONLINE) Enter 10
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="HINDI MOVIES", (ONLINE) BOX CINEMA
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="HINDI MOVIES", (OFFLINE) ABZY MOVIES
+http://103.141.66.36/bpk-tv/10076/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="HINDI MOVIES", (OFFLINE) MANORANJAN TV
+http://streamidvo.multitvsolution.in/live/ManoranjanTV-b/p3.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="HINDI MOVIES", (ONLINE) MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkRBcZX.jpg" group-title="HINDI MOVIES", (OFFLINE) MANORANJAN Grand
+http://103.141.66.36/bpk-tv/10103/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="HINDI MOVIES", (OFFLINE) MAHA MOVIE
+http://103.144.200.7:8080/hls/mahamovie/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://dreamdth.com/wp-content/uploads/2019/09/Movie-Plus-Logo.jpg" group-title="HINDI MOVIES", (OFFLINE) MOVIE PLUS
+http://103.144.200.7:8080/hls/movp/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="HINDI MOVIES", (OFFLINE) B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="HINDI MOVIES", (OFFLINE) B4U Kadak
+http://103.141.66.36/bpk-tv/10312/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bClqIpU.png" group-title="HINDI MOVIES", (OFFLINE) Sameroo
+http://103.141.66.36/bpk-tv/10313/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI MOVIES", (OFFLINE) Joo Music
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dhiraj003/logos/master/zeetalkies.png" group-title="HINDI MOVIES", (OFFLINE) Zee Talkies
+https://y5w8j4a9.ssl.hwcdn.net/zeetalkies/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dhiraj003/logos/master/zeetalkieshd.png" group-title="HINDI MOVIES", (OFFLINE) Zee Talkies HD
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/tracks-v1a1/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1v4M0v.jpg" group-title="HINDI MOVIES", (OFFLINE) Moon
+http://103.141.66.36/bpk-tv/10164/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7Oevxk.png" group-title="HINDI MOVIES", (OFFLINE) Kairali Movies
+http://103.141.66.36/bpk-tv/10286/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbRwp6R.png?1" group-title="HINDI MOVIES", (OFFLINE) Filmachi
+http://103.141.66.36/bpk-tv/10290/default/manifest.mpd?=.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDTgl6F.jpg" group-title="HINDI MOVIES", (ONLINE) Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drvLxV3.png" group-title="HINDI MOVIES", (ONLINE) Lollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDEt9Ai.png" group-title="HINDI MOVIES", (ONLINE) Kollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAkJGW4.jpg" group-title="HINDI MOVIES", (ONLINE) Mollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZmxiFX.jpg" group-title="HINDI MOVIES", (ONLINE) Capital TV [Telegu]
+http://185.180.12.42/mylive/capitaltv/tracks-v1a1/mono.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="HINDI MOVIES", (ONLINE) Premium Marathi Movies
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dhiraj003/logos/master/yuppclassicmarathimovies.png" group-title="HINDI MOVIES", (ONLINE) Classic Marathi Movies
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+
