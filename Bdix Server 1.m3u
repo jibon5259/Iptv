@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BDIX SERVER1", (ONLINE) Sangsad TV [BD]
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
