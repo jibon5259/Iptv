@@ -1,4 +1,5 @@
-#
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BDIX SERVER1",ATN BANGLA [BD]
 https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BDIX SERVER1",EKUSHEY TV [BD]
