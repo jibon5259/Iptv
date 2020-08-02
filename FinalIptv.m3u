@@ -507,3 +507,37 @@ https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8?CREATED_BY_AMARNETT
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="SPORTS",ESPN
 http://87.120.36.62:8104/hls/streama121817/index.m3u8?CREATED_BY_AMARNETTV.LIVE_SUBSCRIBE_NOW@01516198282
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLCmC5f.png" group-title="NIMO TV",BOXOFFICE1
+http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLCmC5f.png" group-title="NIMO TV",BOXOFFICE2
+https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLCmC5f.png" group-title="NIMO TV",BOXOFFICE3
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nu9SJOy.jpg" group-title="NIMO TV",MARVEL MOVIES
+http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjDFBp2.jpg?1" group-title="NIMO TV",DC MOVIES
+https://ws.flv.nimo.tv/live/su1599512427641r25f7c2cb1ceea0ee202f7d6b35e93a1c_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rUxEBRB.jpg" group-title="NIMO TV",007: JAMES BOND MOVIES
+http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxaEeIZ.jpg" group-title="NIMO TV",JACKIE CHAN MOVIES
+https://tx.flv.nimo.tv/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lL9LBaQ.jpg" group-title="NIMO TV",TOM CRUISE MOVIES
+https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwKnWck.jpg" group-title="NIMO TV",Stephen Chow MOVIES
+https://ws.flv.nimo.tv/live/su1599512427555r836c741032fe0c717363f3d8165710c2_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w49wabz.jpg" group-title="NIMO TV",Andi Lau MOVIES
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yT02hK6.jpg?1" group-title="NIMO TV",Mandarin MOVIES1
+https://tx.flv.nimo.tv/live/su1599512427548r9773230416815566776f512b673586f7_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yT02hK6.jpg?1" group-title="NIMO TV",Mandarin MOVIES2
+https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmFcoQD.jpg" group-title="NIMO TV",The Flash [Series]
+https://tx.flv.nimo.tv/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a_mid.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1lZFNZ.jpg" group-title="NIMO TV",Sherlock [Series]
+https://ws.flv.nimo.tv/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NT4e7fK.jpg" group-title="NIMO TV",Game Of Thrones [Series]
+http://ws.flv.nimo.tv:80/live/su1599512427620r670c57364b4f552f7266695a41fa8534.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lmd3GfA.jpg" group-title="NIMO TV",The Black List [Series]
+https://ws.flv.nimo.tv/live/su1599512427618rc421cef9846ced5a2d168c70133b07b0_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8z2wUM.jpg" group-title="NIMO TV",S.H.I.E.L.D [Series]
+https://ws.flv.nimo.tv/live/su1599512427614r64c6b58ca12709ecc72d82d4f45a42cf_high.flv
