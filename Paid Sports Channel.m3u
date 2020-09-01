@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1Sony Six HD
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
+#EXTINF:-1,Sony Six
+http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1,Sony Ten 2
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1,Sony Ten 3
+http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
+#EXTINF:-1,Star Sports 1
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://45.249.187.238:8081/hls/new2.m3u8?
+#EXTINF:-1,Star Sports Select 1 HD
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w857721351.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/chunklist_w113435167.m3u8
+#EXTINF:-1,Sony ESPN
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/23.m3u8
+#EXTINF:-1,Willow HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/70.m3u8
+#EXTINF:-1,Tita Sports
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+#EXTINF:-1,Sony Six
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
+#EXTINF:-1,Sky Cricket
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
