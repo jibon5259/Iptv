@@ -1,0 +1,127 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3ww9kb94d9nv7jm"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_AD Sports 1" tvg-logo="" group-title="EBOX",EB_AD Sports 1
+http://103.49.168.172:8081/ebox/adsports1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_AD Sports 2" tvg-logo="" group-title="EBOX",EB_AD Sports 2
+http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_AD Sports 3" tvg-logo="" group-title="EBOX",EB_AD Sports 3
+http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_AD Sports 4" tvg-logo="" group-title="EBOX",EB_AD Sports 4
+http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Al Jazeera" tvg-logo="" group-title="EBOX",EB_Al Jazeera
+http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Anando TV" tvg-logo="" group-title="EBOX",EB_Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_And Flix HD" tvg-logo="" group-title="EBOX",EB_And Flix HD
+http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_And Pictures" tvg-logo="" group-title="EBOX",EB_And Pictures
+http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_And TV HD" tvg-logo="" group-title="EBOX",EB_And TV HD
+http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_And Xplore" tvg-logo="" group-title="EBOX",EB_And Xplore
+http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Animal Planet HD" tvg-logo="" group-title="EBOX",EB_Animal Planet HD
+http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Asian TV" tvg-logo="" group-title="EBOX",EB_Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_ATN Bangla" tvg-logo="" group-title="EBOX",EB_ATN Bangla
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_ATN News" tvg-logo="" group-title="EBOX",EB_ATN News
+http://103.49.168.172:8081/ebox/bd_atn_news/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Bangla TV" tvg-logo="" group-title="EBOX",EB_Bangla TV
+http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Bangla Vision" tvg-logo="" group-title="EBOX",EB_Bangla Vision
+http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_BBC World" tvg-logo="" group-title="EBOX",EB_BBC World
+http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Bflix" tvg-logo="" group-title="EBOX",EB_Bflix
+http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Boishakhi TV" tvg-logo="" group-title="EBOX",EB_Boishakhi TV
+http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Channel 24" tvg-logo="" group-title="EBOX",EB_Channel 24
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Channel 9 HD" tvg-logo="" group-title="EBOX",EB_Channel 9 HD
+http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Channel I" tvg-logo="" group-title="EBOX",EB_Channel I
+http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Colors" tvg-logo="" group-title="EBOX",EB_Colors
+http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Colors Bangla HD" tvg-logo="" group-title="EBOX",EB_Colors Bangla HD
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_DBC News" tvg-logo="" group-title="EBOX",EB_DBC News
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Deepto TV" tvg-logo="" group-title="EBOX",EB_Deepto TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Desh TV" tvg-logo="" group-title="EBOX",EB_Desh TV
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Duronto TV" tvg-logo="" group-title="EBOX",EB_Duronto TV
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_DW" tvg-logo="" group-title="EBOX",EB_DW
+http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Ekattor TV" tvg-logo="" group-title="EBOX",EB_Ekattor TV
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_ESPN" tvg-logo="" group-title="EBOX",EB_ESPN
+http://103.49.168.172:8081/ebox/espn/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Gaan Bangla" tvg-logo="" group-title="EBOX",EB_Gaan Bangla
+http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Gazi TV" tvg-logo="" group-title="EBOX",EB_Gazi TV
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Independent TV" tvg-logo="" group-title="EBOX",EB_Independent TV
+http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Jamuna TV" tvg-logo="" group-title="EBOX",EB_Jamuna TV
+http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Mohona TV" tvg-logo="" group-title="EBOX",EB_Mohona TV
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Movies Now" tvg-logo="" group-title="EBOX",EB_Movies Now
+http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_MY TV" tvg-logo="" group-title="EBOX",EB_MY TV
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Nagorik TV" tvg-logo="" group-title="EBOX",EB_Nagorik TV
+http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Nat Geo Channel HD" tvg-logo="" group-title="EBOX",EB_Nat Geo Channel HD
+http://103.49.168.172:8081/ebox/in_natgeo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_News 24" tvg-logo="" group-title="EBOX",EB_News 24
+http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_NTV" tvg-logo="" group-title="EBOX",EB_NTV
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Romedy Now" tvg-logo="" group-title="EBOX",EB_Romedy Now
+http://103.49.168.172:8081/ebox/in_romedy_now/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_RTV" tvg-logo="" group-title="EBOX",EB_RTV
+http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Ruposhi Bangla" tvg-logo="" group-title="EBOX",EB_Ruposhi Bangla
+http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sangeet Bangla" tvg-logo="" group-title="EBOX",EB_Sangeet Bangla
+http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_SATV" tvg-logo="" group-title="EBOX",EB_SATV
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Somoy TV" tvg-logo="" group-title="EBOX",EB_Somoy TV
+http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Max HD" tvg-logo="" group-title="EBOX",EB_Sony Max HD
+http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Pix HD" tvg-logo="" group-title="EBOX",EB_Sony Pix HD
+http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Sab" tvg-logo="" group-title="EBOX",EB_Sony Sab
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Six" tvg-logo="" group-title="EBOX",EB_Sony Six
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Ten 1 HD" tvg-logo="" group-title="EBOX",EB_Sony Ten 1 HD
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Ten 2 HD" tvg-logo="" group-title="EBOX",EB_Sony Ten 2 HD
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony Ten 3 HD" tvg-logo="" group-title="EBOX",EB_Sony Ten 3 HD
+http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Sony TV HD" tvg-logo="" group-title="EBOX",EB_Sony TV HD
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Star Bharat" tvg-logo="" group-title="EBOX",EB_Star Bharat
+http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Star Gold HD" tvg-logo="" group-title="EBOX",EB_Star Gold HD
+http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Star Jalsha HD" tvg-logo="" group-title="EBOX",EB_Star Jalsha HD
+http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_TLC HD" tvg-logo="" group-title="EBOX",EB_TLC HD
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Zee Bangla" tvg-logo="" group-title="EBOX",EB_Zee Bangla
+http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Zee Cinema HD" tvg-logo="" group-title="EBOX",EB_Zee Cinema HD
+http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EB_Zee TV HD" tvg-logo="" group-title="EBOX",EB_Zee TV HD
+http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8
